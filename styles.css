@@ -88,6 +88,7 @@ body {
   font-size: 14px;
   background-color: white;
   outline: none;
+  transition: background 0.4s;
 }
 
 .quote-container .buttons a + button{
